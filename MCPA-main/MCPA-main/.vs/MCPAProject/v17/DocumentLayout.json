@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thula\\Downloads\\MCPA-main\\MCPA-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34A1784E-998B-4BDB-B6E7-E1AA726216CD}|MCPAProject.csproj|c:\\users\\thula\\downloads\\mcpa-main\\mcpa-main\\student profile\\template\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34A1784E-998B-4BDB-B6E7-E1AA726216CD}|MCPAProject.csproj|solutionrelative:student profile\\template\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A1784E-998B-4BDB-B6E7-E1AA726216CD}|MCPAProject.csproj|C:\\Users\\thula\\Downloads\\MCPA-main\\MCPA-main\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34A1784E-998B-4BDB-B6E7-E1AA726216CD}|MCPAProject.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A1784E-998B-4BDB-B6E7-E1AA726216CD}|MCPAProject.csproj|C:\\Users\\thula\\Downloads\\MCPA-main\\MCPA-main\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34A1784E-998B-4BDB-B6E7-E1AA726216CD}|MCPAProject.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A1784E-998B-4BDB-B6E7-E1AA726216CD}|MCPAProject.csproj|C:\\Users\\thula\\Downloads\\MCPA-main\\MCPA-main\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A1784E-998B-4BDB-B6E7-E1AA726216CD}|MCPAProject.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A1784E-998B-4BDB-B6E7-E1AA726216CD}|MCPAProject.csproj|C:\\Users\\thula\\Downloads\\MCPA-main\\MCPA-main\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A1784E-998B-4BDB-B6E7-E1AA726216CD}|MCPAProject.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A1784E-998B-4BDB-B6E7-E1AA726216CD}|MCPAProject.csproj|C:\\Users\\thula\\Downloads\\MCPA-main\\MCPA-main\\models\\studname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A1784E-998B-4BDB-B6E7-E1AA726216CD}|MCPAProject.csproj|solutionrelative:models\\studname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A1784E-998B-4BDB-B6E7-E1AA726216CD}|MCPAProject.csproj|C:\\Users\\thula\\Downloads\\MCPA-main\\MCPA-main\\views\\home\\student_info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34A1784E-998B-4BDB-B6E7-E1AA726216CD}|MCPAProject.csproj|solutionrelative:views\\home\\student_info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.html",
+              "DocumentMoniker": "C:\\Users\\thula\\Downloads\\MCPA-main\\MCPA-main\\Student Profile\\Template\\Home.html",
+              "RelativeDocumentMoniker": "Student Profile\\Template\\Home.html",
+              "ToolTip": "C:\\Users\\thula\\Downloads\\MCPA-main\\MCPA-main\\Student Profile\\Template\\Home.html",
+              "RelativeToolTip": "Student Profile\\Template\\Home.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-03T19:28:10.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\thula\\Downloads\\MCPA-main\\MCPA-main\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\thula\\Downloads\\MCPA-main\\MCPA-main\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAwAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T09:07:53.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\thula\\Downloads\\MCPA-main\\MCPA-main\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\thula\\Downloads\\MCPA-main\\MCPA-main\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:26:50.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thula\\Downloads\\MCPA-main\\MCPA-main\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thula\\Downloads\\MCPA-main\\MCPA-main\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T08:24:28.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\thula\\Downloads\\MCPA-main\\MCPA-main\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\thula\\Downloads\\MCPA-main\\MCPA-main\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:26:54.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student_info.cshtml",
+              "DocumentMoniker": "C:\\Users\\thula\\Downloads\\MCPA-main\\MCPA-main\\Views\\Home\\Student_info.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Student_info.cshtml",
+              "ToolTip": "C:\\Users\\thula\\Downloads\\MCPA-main\\MCPA-main\\Views\\Home\\Student_info.cshtml",
+              "RelativeToolTip": "Views\\Home\\Student_info.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T09:11:16.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "studName.cs",
+              "DocumentMoniker": "C:\\Users\\thula\\Downloads\\MCPA-main\\MCPA-main\\Models\\studName.cs",
+              "RelativeDocumentMoniker": "Models\\studName.cs",
+              "ToolTip": "C:\\Users\\thula\\Downloads\\MCPA-main\\MCPA-main\\Models\\studName.cs",
+              "RelativeToolTip": "Models\\studName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:43:55.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
